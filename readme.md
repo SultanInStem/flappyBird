@@ -10,7 +10,7 @@ You can see the demo of the game [here](https://youtu.be/oefHwNniv3Y)
 - Game flow 
 
 ## Getting started
-...
+- Run ./game in the src directory
 
 ## Additional Ideas
 - Make the pipes jiggle
